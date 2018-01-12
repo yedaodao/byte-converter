@@ -1,0 +1,13 @@
+{
+  "name": "byte-converter",
+  "version": "0.1.0",
+  "description": "",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yedaodao/byte-converter.git"
+  },
+  
+  "author": "yedaodao",
+  "license": "MIT"
+}
