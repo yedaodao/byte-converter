@@ -1,10 +1,10 @@
 {
-  "name": "yan-byte-converter",
+  "name": "yan-converter",
   "version": "0.1.0",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yedaodao/byte-converter.git"
+    "url": "https://github.com/yedaodao/yan-converter.git"
   },
   "scripts": {
     "test": "mocha ./test/*.test.js ./test/**/*.test.js"
